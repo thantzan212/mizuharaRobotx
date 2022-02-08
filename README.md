@@ -18,6 +18,7 @@ News channel as at [Chizuru updates](https://t.me/chizuruupdates)
  - Your code must be open source and a link to our repo
  - last, we don't support fork... So asking support for your fork in our support chat will be ignored.
  
+p align="center"><a href="https://heroku.com/deploy?template=https://github.com/thantzan212/mizuharaRobotx"><img src="https://img.shields.io/badge/BUAT DI-HEROKU-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
 
 
 <details>
